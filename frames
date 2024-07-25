@@ -1037,28 +1037,36 @@
     "begin_at": "2024-07-02T20:45:32+00:00",
     "end_at": "2024-07-02T21:11:45+00:00",
     "project": "dacamera",
-    "tags": []
+    "tags": [
+      "TandemCo"
+    ]
   },
   {
     "id": "urn:uuid:830230c9-9420-48d7-ac9c-129c8b2b8b2b",
     "begin_at": "2024-07-02T21:12:14+00:00",
     "end_at": "2024-07-03T01:13:35+00:00",
     "project": "dacamera",
-    "tags": []
+    "tags": [
+      "TandemCo"
+    ]
   },
   {
     "id": "urn:uuid:19e187d7-910e-4378-b978-f28b2c79e497",
     "begin_at": "2024-07-03T02:17:39+00:00",
     "end_at": "2024-07-03T03:19:43+00:00",
     "project": "dacamera",
-    "tags": []
+    "tags": [
+      "TandemCo"
+    ]
   },
   {
     "id": "urn:uuid:551effe6-5359-4756-bd9b-5d0f6f3cbf45",
     "begin_at": "2024-07-05T20:05:00+00:00",
     "end_at": "2024-07-05T21:05:00+00:00",
     "project": "dacamera",
-    "tags": []
+    "tags": [
+      "TandemCo"
+    ]
   },
   {
     "id": "urn:uuid:102988ee-24a7-4f6c-91d7-447b2f45b88e",
@@ -1088,7 +1096,9 @@
     "begin_at": "2024-07-11T16:56:34+00:00",
     "end_at": "2024-07-11T20:56:38+00:00",
     "project": "dacamera",
-    "tags": []
+    "tags": [
+      "TandemCo"
+    ]
   },
   {
     "id": "urn:uuid:26f99020-bde4-45ef-96c3-c760c133bc51",
@@ -1102,55 +1112,71 @@
     "begin_at": "2024-07-18T02:39:01+00:00",
     "end_at": "2024-07-18T02:51:08+00:00",
     "project": "dacamera",
-    "tags": []
+    "tags": [
+      "TandemCo"
+    ]
   },
   {
     "id": "urn:uuid:8859653a-0544-488a-be47-5820c54d4c80",
     "begin_at": "2024-07-18T18:10:13+00:00",
     "end_at": "2024-07-18T19:34:13+00:00",
     "project": "dacamera",
-    "tags": []
+    "tags": [
+      "TandemCo"
+    ]
   },
   {
     "id": "urn:uuid:10ab8eb5-fd49-4e75-9589-a7f4f5943817",
     "begin_at": "2024-07-20T23:40:14+00:00",
     "end_at": "2024-07-21T01:25:45+00:00",
     "project": "txjhs",
-    "tags": []
+    "tags": [
+      "TandemCo"
+    ]
   },
   {
     "id": "urn:uuid:a1f12d32-863d-4966-b56b-6e7ad71510e6",
     "begin_at": "2024-07-23T13:52:15+00:00",
     "end_at": "2024-07-23T18:33:43+00:00",
     "project": "txjhs",
-    "tags": []
+    "tags": [
+      "TandemCo"
+    ]
   },
   {
     "id": "urn:uuid:a3caad3a-7d96-42f8-8734-987196db0780",
     "begin_at": "2024-07-23T19:58:16+00:00",
     "end_at": "2024-07-23T23:26:48+00:00",
     "project": "txjhs",
-    "tags": []
+    "tags": [
+      "TandemCo"
+    ]
   },
   {
     "id": "urn:uuid:5f99d1d4-ba50-43e8-99f5-37f1c5af31e8",
     "begin_at": "2024-07-23T20:12:14+00:00",
     "end_at": "2024-07-24T06:32:07+00:00",
     "project": "wildflower",
-    "tags": []
+    "tags": [
+      "TandemCo"
+    ]
   },
   {
     "id": "urn:uuid:b3ed78ba-af00-4f1c-89c3-3bfc47b04abd",
     "begin_at": "2024-07-24T06:33:20+00:00",
     "end_at": "2024-07-24T06:33:23+00:00",
     "project": "wildflower",
-    "tags": []
+    "tags": [
+      "TandemCo"
+    ]
   },
   {
     "id": "urn:uuid:ebab0c22-1620-42d7-b09c-d1b93948bc0d",
     "begin_at": "2024-07-25T03:14:26+00:00",
     "end_at": "2024-07-25T03:43:32+00:00",
     "project": "txjhs",
-    "tags": []
+    "tags": [
+      "TandemCo"
+    ]
   }
 ]
