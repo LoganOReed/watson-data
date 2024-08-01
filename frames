@@ -1196,5 +1196,21 @@
     "tags": [
       "TandemCo"
     ]
+  },
+  {
+    "id": "urn:uuid:06ce7462-8733-4d03-b747-eae7a23ad3b5",
+    "begin_at": "2024-07-29T02:03:10+00:00",
+    "end_at": "2024-07-29T11:53:33+00:00",
+    "project": "neurovisor",
+    "tags": []
+  },
+  {
+    "id": "urn:uuid:6175ba51-b2a6-462f-9844-6480a6648327",
+    "begin_at": "2024-08-01T02:15:33+00:00",
+    "end_at": "2024-08-01T03:20:32+00:00",
+    "project": "dacamera",
+    "tags": [
+      "TandemCo"
+    ]
   }
 ]
