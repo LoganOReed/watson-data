@@ -1212,5 +1212,66 @@
     "tags": [
       "TandemCo"
     ]
+  },
+  {
+    "id": "urn:uuid:adfc036c-4da7-425a-8287-a8e611fedd9e",
+    "begin_at": "2024-08-01T19:07:29+00:00",
+    "end_at": "2024-08-01T19:22:34+00:00",
+    "project": "txjhs",
+    "tags": [
+      "TandemCo"
+    ]
+  },
+  {
+    "id": "urn:uuid:32bf219b-eca0-4d5f-8ab8-19a2b51051f5",
+    "begin_at": "2024-08-01T22:23:09+00:00",
+    "end_at": "2024-08-01T23:33:39+00:00",
+    "project": "neurovisor",
+    "tags": []
+  },
+  {
+    "id": "urn:uuid:f36279a4-8556-47db-819c-4fa351438877",
+    "begin_at": "2024-08-06T20:30:47+00:00",
+    "end_at": "2024-08-06T22:30:27+00:00",
+    "project": "dacamera",
+    "tags": [
+      "TandemCo"
+    ]
+  },
+  {
+    "id": "urn:uuid:bc1024dc-af11-4a86-a256-fe7f039ba0e0",
+    "begin_at": "2024-08-07T03:08:25+00:00",
+    "end_at": "2024-08-07T06:16:49+00:00",
+    "project": "dacamera",
+    "tags": [
+      "TandemCo"
+    ]
+  },
+  {
+    "id": "urn:uuid:c7c3ca42-3ccc-4849-b218-9d46a9c9cf0f",
+    "begin_at": "2024-08-07T18:13:03+00:00",
+    "end_at": "2024-08-07T18:43:06+00:00",
+    "project": "wildflower",
+    "tags": [
+      "TandemCo"
+    ]
+  },
+  {
+    "id": "urn:uuid:0f6ca91f-902e-4ead-b7f4-db7079d5595e",
+    "begin_at": "2024-08-07T19:13:39+00:00",
+    "end_at": "2024-08-07T23:19:48+00:00",
+    "project": "dacamera",
+    "tags": [
+      "TandemCo"
+    ]
+  },
+  {
+    "id": "urn:uuid:5f714c8c-cef8-45ad-9ab3-4ad8f5b60a67",
+    "begin_at": "2024-08-08T12:22:24+00:00",
+    "end_at": "2024-08-08T16:22:29+00:00",
+    "project": "wildflower",
+    "tags": [
+      "TandemCo"
+    ]
   }
 ]
