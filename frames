@@ -1291,5 +1291,14 @@
     "tags": [
       "TandemCo"
     ]
+  },
+  {
+    "id": "urn:uuid:5b3a92b0-e5c1-4ef4-9602-9ed5463de68e",
+    "begin_at": "2024-08-27T00:49:33+00:00",
+    "end_at": "2024-08-27T04:02:11+00:00",
+    "project": "dacamera",
+    "tags": [
+      "TandemCo"
+    ]
   }
 ]
