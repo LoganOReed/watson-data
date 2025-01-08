@@ -1345,5 +1345,14 @@
     "tags": [
       "TandemCo"
     ]
+  },
+  {
+    "id": "urn:uuid:248859e1-fd82-4975-8ba6-0765316e0413",
+    "begin_at": "2025-01-07T22:55:11+00:00",
+    "end_at": "2025-01-08T04:28:13+00:00",
+    "project": "wildflower",
+    "tags": [
+      "TandemCo"
+    ]
   }
 ]
